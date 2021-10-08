@@ -12,6 +12,8 @@ Or install it via NPM:
 ```sh
 npm i a-ejs
 ```
+*If importing or using commonjs sytax, simply go `import "a-ejs"` or `require("a-ejs")` without asigning a variable. There's no exports.*
+
 And that's it for the setup.
 
 ## Usage
