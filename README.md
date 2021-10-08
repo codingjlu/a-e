@@ -6,11 +6,11 @@ Accelerating extreme attributes - go to a URL faster than you can blink. [Demo](
 ## Setup
 Download the source from [Github](https://github.com/codingjlu/a-ejs) or grab the CDN:
 ```html
-<script src="https://cdn.jsdelivr.net/npm/a-ejs/a-e.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/a-e.js/a-e.min.js"></script>
 ```
 Or install it via NPM:
 ```sh
-npm i a-ejs
+npm i a-e.js
 ```
 *If importing or using commonjs sytax, simply go `import "a-ejs"` or `require("a-ejs")` without assigning a variable. There's no exports.*
 
